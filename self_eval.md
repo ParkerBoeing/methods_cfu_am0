@@ -1,5 +1,5 @@
 # Self-Evaluation
 
-- Reflect on your learning and work today. What are you most proud of?
-- What is the power of using methods in our applications?
+- Reflect on your learning and work today. What are you most proud of? I'm proud of my ability to interpolate without much hassle at this point. It seems like that has been giving others some trouble and I am happy with how easy it was to do the bonus challenge interpolating square numbers during today's assignment.
+- What is the power of using methods in our applications? Methods allow us to run processes and set parameters on large sets of code without having to rewrite the same code or do the work over and over. Methods seem like a great way to apply complex processes / parameters on large chunks of data.
 - Not part of the assignment, but I do have a question from today. Are arrays stored in variables, or is an array a type of variable (one that contains multiple elements)?
