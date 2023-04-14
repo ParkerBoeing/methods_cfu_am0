@@ -54,7 +54,7 @@ puts "The square of the number you're looking for is #{square(5)}."
 # 5: Write a method named check_stock that satisfies the following interaction pattern:
 # Hint: You will only write one check_stock method that checks the quantity and then prints the corresponding statement.
 def check_stock(amount, item)
-    if amount = 0
+    if amount == 0
         puts "#{item} - OUT of stock!"
     elsif amount <= 3
         puts "#{item} - running LOW!"
